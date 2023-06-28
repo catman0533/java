@@ -1,3 +1,6 @@
+// Реализовать простой калькулятор
+
+
 
 import java.util.Scanner;
 public class homework1_task3 {

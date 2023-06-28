@@ -1,3 +1,6 @@
+// Вывести все простые числа от 1 до 1000
+
+
 public class homework1_task2 {
      public static void main(String[] args) {
     //    Scanner in = new Scanner(System.in);
